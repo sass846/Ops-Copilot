@@ -1,0 +1,3 @@
+[submodule "Copilot_backend"]
+	path = Copilot_backend
+	url = git@github.com:sass846/Ops-Copilot.git
